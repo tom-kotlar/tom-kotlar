@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img src="img/microsoft-certified-azure-fundamentals.png"  height="150px"/>
+
+<img src="img/microsoft-certified-azure-data-fundamentals.png" height="150px"/>
+
+<img src="img/ironman.gif"/>
+
+
+<img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif"/>
+
+
 <!--
 **tom-kotlar/tom-kotlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
