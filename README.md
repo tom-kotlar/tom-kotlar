@@ -5,14 +5,12 @@
 - :octocat: Marvel & Star Was Fan
 - 🌱 I love animals especialy 🐈
 - 📺, I’m currently watching Westword - tv show
-- ✨ I enjoy to take photos 🚁 / Drone, 📷, Nature
+- ✨ I enjoy to take photos 🚁 / Drone, 📷 Nature
 
-#
+<br />
 
 ## :hammer_and_wrench: Technologies :
 
-
-<br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -26,6 +24,7 @@
                    
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 <br />
@@ -35,30 +34,25 @@
 ## 🧰 Tools
 
 
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> [Favorite IDE](https://code.visualstudio.com)
+<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> [Favorite IDE](https://code.visualstudio.com)
+
+<img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Pipelines CD/CI](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
 
 
-- <img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Pipelines CD/CI](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Favorite VS Code Extention](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 
 
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Favorite VS Code Extention](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://argutec.gallerycdn.vsassets.io/extensions/argutec/argutec-azure-repos/1.2007.15/1596020285990/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Repos / DevOps Git](https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops)
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Day Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
 
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://argutec.gallerycdn.vsassets.io/extensions/argutec/argutec-azure-repos/1.2007.15/1596020285990/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Repos / DevOps Git](https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops)
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Afternoon Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-- <img align="left" alt="Visual Studio Code" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Day Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
-
-
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Afternoon Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-
-
-
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" /> [Mood Shifter](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" /> [Mood Shifter](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 
 <br />
-
-#
 
 ## :iphone: Social:
 
@@ -77,13 +71,11 @@ title="linkedin icon" alt="linkedin icon" height="30px"style="padding-right:10px
 <img  src="https://cdn-icons-png.flaticon.com/512/87/87400.png"  title="dribbble icon" alt="dribbble icon" height="30px"style="padding-right:10px;"/>
 </a>
 
-
-
 <br />
 
-#
 
-### Certification
+## Certification
+<br />
 
 <a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url" >
 <img align="left" src="img/microsoft-certified-azure-fundamentals.png"  height="100px"/>
