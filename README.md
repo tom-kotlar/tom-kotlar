@@ -1,6 +1,6 @@
-#  Hi there, I'm Tom  <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="100"/> 
+#  Hi there, I'm Tom  <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40"/> 
 
-### Social
+### 📫 How to reach me: 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tom-kotlar-ab15b1198/">
@@ -9,6 +9,12 @@
  
   <a href="https://twitter.com/tomaskotlar" >
    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter icon" width="25" />         
+  </a>
+  
+ 
+  
+  <a href="https://twitter.com/tomaskotlar" >
+   <img align="left" src="https://www.flaticon.com/free-icon/instagram_174855" alt="Twitter icon" width="25" />         
   </a>
 </div>
 
