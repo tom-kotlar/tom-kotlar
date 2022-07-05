@@ -9,6 +9,20 @@
 
 <br />
 
+## Certification
+<br />
+
+<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url">
+<img  src="img/microsoft-certified-azure-fundamentals.png" height="100px" style="padding-right:10px;"/>
+</a>
+
+<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url">
+<img  src="img/microsoft-certified-azure-data-fundamentals.png" height="100px" style="padding-right:10px;"/>
+</a>
+
+<br />
+<br />
+
 ## :hammer_and_wrench: Technologies :
 
 
@@ -63,30 +77,22 @@
 
 <a href="https://www.linkedin.com/in/tom-kotlar-ab15b1198">
 <img align="left" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" 
-title="linkedin icon" alt="linkedin icon" height="30px"style="padding-right:10px;"/>
+title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10px;"/>
 </a>
 
 <a href="https://www.instagram.com/tomy_kotlar/" >
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"  title="instagram icon" alt="instagram icon" height="30px"style="padding-right:10px;"/>
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"  title="instagram icon" alt="instagram icon" height="25px" style="padding-right:10px;"/>
 </a>
 
 <a href="https://dribbble.com/tomkotlar" align="left">
-<img  src="https://cdn-icons-png.flaticon.com/512/87/87400.png"  title="dribbble icon" alt="dribbble icon" height="30px"style="padding-right:10px;"/>
+<img  src="https://cdn-icons-png.flaticon.com/512/87/87400.png"  title="dribbble icon" alt="dribbble icon" height="25px"style="padding-right:10px;"/>
 </a>
 
 <br />
 
 
-## Certification
-<br />
 
-<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url" >
-<img align="left" src="img/microsoft-certified-azure-fundamentals.png"  height="100px"/>
-</a>
 
-<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url" >
-<img align="left" src="img/microsoft-certified-azure-data-fundamentals.png" height="100px"/>
-</a>
 
 
 
