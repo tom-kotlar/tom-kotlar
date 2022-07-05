@@ -95,11 +95,21 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 
 <br />
 
-<a href="https://github.com/tom-kotlar">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tom-kotlar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/tom-kotlar">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-kotlar&layout=compact&theme=dracula" />
-</a>
+
+<details>
+  <summary> :keyboard: GitHub Stats</summary>
+
+  <img align="left" alt="Tom's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=tom-kotlar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</details>
+
+<details>
+  <summary> :flashlight: Most Used Languages</summary>
+
+  <img align="left" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-kotlar&layout=compact&theme=dracula"  />
+
+</details>
+
+
 
 
