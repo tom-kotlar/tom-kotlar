@@ -1,21 +1,9 @@
 #  Hi there, I'm Tom  <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40"/> 
 
 ### 📫 How to reach me: 
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tom-kotlar-ab15b1198/">
-    <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" width="25" />
-  </a>
- 
-  <a href="https://twitter.com/tomaskotlar" >
-   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter icon" width="25" />         
-  </a>
- <img src="/img/instagram-logo-24.png" width="25"/>
- 
-  
-</div>
-
-[![website](./img/instagram-logo-24.png)](https://www.instagram.com/tomy_kotlar/)
+[![website](./img/linkedin-logo-36.png)](https://www.linkedin.com/in/tom-kotlar-ab15b1198)
+[![website](./img/twitter-logo-36.png)](https://twitter.com/tomaskotlar)
+[![website](./img/instagram-logo-36.png)](https://www.instagram.com/tomy_kotlar/)
 
 <br />
 <br />
