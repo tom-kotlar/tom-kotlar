@@ -5,7 +5,7 @@
 - :octocat: Marvel & Star Was Fan
 - 🌱 I love animals especialy 🐈
 - 📺, I’m currently watching Westword - tv show
-- ✨ I enjoy to take photos 🚁 / Drone, 📷 Nature
+- ✨ I enjoy to take photos 🚁 Drone, 📷 Nature
 
 <br />
 
@@ -34,7 +34,10 @@
 ## 🧰 Tools
 
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />  [Favorite IDE](https://code.visualstudio.com)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> [Favorite IDE](https://code.visualstudio.com)
+
+
+
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Pipelines CD/CI](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
 
