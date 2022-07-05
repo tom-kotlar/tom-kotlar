@@ -89,10 +89,17 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 </a>
 
 <br />
+<br />
 
+## :chart_with_upwards_trend: My Stats:
 
+<br />
 
-
-
+<a href="https://github.com/tom-kotlar">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tom-kotlar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+<a href="https://github.com/tom-kotlar">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-kotlar&layout=compact&theme=dracula" />
+</a>
 
 
