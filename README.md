@@ -80,8 +80,8 @@
 title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://www.instagram.com/tomy_kotlar/" >
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"  title="instagram icon" alt="instagram icon" height="25px" style="padding-right:10px;"/>
+<a href="https://unsplash.com/@90angle" >
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968743.png"  title="unsplash icon" alt="unsplash icon" height="25px" style="padding-right:10px;"/>
 </a>
 
 <a href="https://dribbble.com/tomkotlar" align="left">
