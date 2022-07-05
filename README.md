@@ -10,13 +10,12 @@
   <a href="https://twitter.com/tomaskotlar" >
    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter icon" width="25" />         
   </a>
-  
+ <img src="/img/instagram-logo-24.png" width="25"/>
  
   
-  <a href="https://twitter.com/tomaskotlar" >
-   <img align="left" src="https://www.flaticon.com/free-icon/instagram_174855" alt="Twitter icon" width="25" />         
-  </a>
 </div>
+
+[![website](./img/instagram-logo-24.png)](https://www.instagram.com/tomy_kotlar/)
 
 <br />
 <br />
