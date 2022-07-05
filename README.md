@@ -34,7 +34,7 @@
 ## 🧰 Tools
 
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> [Favorite IDE](https://code.visualstudio.com)
+<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />  [Favorite IDE](https://code.visualstudio.com)
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Azure Pipelines CD/CI](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
 
@@ -49,7 +49,7 @@
 
  <img align="left" alt="Visual Studio Code" width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Afternoon Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" /> [Mood Shifter](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  [Mood Shifter](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 
 <br />
