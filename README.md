@@ -51,7 +51,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 
-
+<img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/500/notion.png" style="padding-right:10px;" /> 
 
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
