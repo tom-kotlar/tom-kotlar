@@ -30,12 +30,14 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Microsoft_Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="padding-right:10px;" />
 
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
                    
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -48,26 +50,39 @@
 
 ## 🧰 Tools
 
-
+<a href="https://code.visualstudio.com">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
+</a>
 
+
+<a href="https://www.notion.so">
 <img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/500/notion.png" style="padding-right:10px;" /> 
+</a>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines">
+<img align="left" alt="Azure Pipelines" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
-<img align="left" alt="Visual Studio Code" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions">
+<img align="left" alt="Azure Functions" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
+<a href="https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops">
+<img align="left" alt="Azure Repos / DevOps Git" width="26px" src="https://argutec.gallerycdn.vsassets.io/extensions/argutec/argutec-azure-repos/1.2007.15/1596020285990/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light">
+<img align="left" alt="Day Theme github-light" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">
+ <img align="left" alt="Afternoon Theme theme-dracula " width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://argutec.gallerycdn.vsassets.io/extensions/argutec/argutec-azure-repos/1.2007.15/1596020285990/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets">
+<img align="left" alt="Mood Shifter vscode-pets" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
-
-
- <img align="left" alt="Visual Studio Code" width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 
 <br />
 <br />
@@ -113,14 +128,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 
 <details>
   <summary> :file_folder: Reference</summary>
-
-  - [Favorite IDE](https://code.visualstudio.com)
-  - [Azure Pipelines CD/CI](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
-  - [Favorite VS Code Extention](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-  - [Azure Repos / DevOps Git](https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops)
-  - [Day Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
-  - [Afternoon Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-  - [Mood Shifter](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+  
   - [Gifs](https://media.giphy.com/)
   - [Icons](https://devicon.dev)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
