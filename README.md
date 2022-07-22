@@ -1,12 +1,12 @@
 # Hello <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40" />
 
-- 🧑🏻‍💻 I’m currently working on [Azure Static Web App](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) app with [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview)
-- :books: I’m currently learning for [SC-900](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900)
+- 🧑🏻‍💻 I’m currently working on [Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp) with [Event trigger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid?tabs=in-process%2Cextensionv3&pivots=programming-language-javascript) for Dashboard Component
+- :books: I’m currently learning for [AI-900](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900)
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
 - :earth_africa: I love animals especialy 🐈
 - :tv: I’m currently watching [Westword](https://www.imdb.com/title/tt0475784/) - tv show
 - :radio:  I’m currently listening [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
-- ✨ I enjoy to take photos 🚁 Drone, 📷 Nature
+- ✨ I enjoy taking photos of Nature 📷 🚁  - Drone
 
 <br />
 
@@ -21,10 +21,17 @@
 <img  src="img/microsoft-certified-azure-data-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
+<a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url">
+<img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px;"/>
+</a>
+
+
+
+
 <br />
 <br />
 
-## :hammer_and_wrench: Technologies :
+## :hammer_and_wrench: Technologies
 
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -87,7 +94,7 @@
 <br />
 <br />
 
-## :iphone: Social:
+## :iphone: Social
 
 <br />
 
@@ -107,7 +114,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 <br />
 <br />
 
-## :chart_with_upwards_trend: My Stats:
+## :chart_with_upwards_trend: My Stats
 
 <br />
 
@@ -128,11 +135,11 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 
 <details>
   <summary> :file_folder: Reference</summary>
-  
+
   - [Gifs](https://media.giphy.com/)
   - [Icons](https://devicon.dev)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Github Readme Streak Stats]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DenverCoder1/github-readme-streak-stats))
+  - [Github Readme Streak Stats]([https://github.com/anuraghazra/github-readme-stats(https://github.com/DenverCoder1/github-readme-streak-stats)
   
 
 </details>
