@@ -13,15 +13,15 @@
 ## Certification
 <br />
 
-<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url">
+<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url" target="_blank">
 <img  src="img/microsoft-certified-azure-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url">
+<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url" target="_blank">
 <img  src="img/microsoft-certified-azure-data-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url">
+<a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url" target="_blank">
 <img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
@@ -57,12 +57,12 @@
 
 ## 🧰 Tools
 
-<a href="https://code.visualstudio.com">
+<a href="https://code.visualstudio.com" target="_blank">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 </a>
 
 
-<a href="https://www.notion.so">
+<a href="https://www.notion.so" target="_blank">
 <img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/500/notion.png" style="padding-right:10px;" /> 
 </a>
 
