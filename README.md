@@ -13,15 +13,15 @@
 ## Certification
 <br />
 
-<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url" target="_blank">
+<a href="https://www.credly.com/badges/a23001ea-99ed-4cc2-a7ff-2697aa59f3a3/public_url" >
 <img  src="img/microsoft-certified-azure-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url" target="_blank">
+<a href="https://www.credly.com/badges/9b68ab81-a88c-4e87-9574-6d2411fe14fe/public_url" >
 <img  src="img/microsoft-certified-azure-data-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url" target="_blank">
+<a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url" >
 <img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px;"/>
 </a>
 
@@ -33,23 +33,36 @@
 
 ## :hammer_and_wrench: Technologies
 
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</a>
 
-
+<a href="https://www.typescriptlang.org/">
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
+</a>
 
+<a href="https://angular.io/">
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+</a>
 
+<a href="https://azure.microsoft.com/en-gb/">
 <img align="left" alt="Microsoft_Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="padding-right:10px;" />
+</a>
 
 
+<a href="https://material.io/">
 <img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-                   
+</a>                 
 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+</a>
+
 
 <br />
 <br />
@@ -57,12 +70,12 @@
 
 ## 🧰 Tools
 
-<a href="https://code.visualstudio.com" target="_blank">
+<a href="https://code.visualstudio.com" >
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 </a>
 
 
-<a href="https://www.notion.so" target="_blank">
+<a href="https://www.notion.so" >
 <img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/500/notion.png" style="padding-right:10px;" /> 
 </a>
 
