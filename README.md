@@ -152,7 +152,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
   - [Gifs](https://media.giphy.com/)
   - [Icons](https://devicon.dev)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Github Readme Streak Stats]([https://github.com/anuraghazra/github-readme-stats(https://github.com/DenverCoder1/github-readme-streak-stats)
+  - [Github Readme Streak Stats](https://github.com/anuraghazra/github-readme-stats(https://github.com/DenverCoder1/github-readme-streak-stats)
   
 
 </details>
