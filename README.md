@@ -95,6 +95,10 @@
 <img align="left" alt="Azure Static Web Apps" width="26px" src="https://res.cloudinary.com/apideck/image/upload/v1594075913/icons/azure-static-web-apps.png" style="padding-right:10px;" />  
 </a>
 
+<a href="https://azure.microsoft.com/en-gb/products/api-management">
+<img align="left" alt="Azure Api Management" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-apimanagement/1.0.5/1656098878130/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
+
 <a href="https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light">
 <img align="left" alt="Day Theme github-light" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
@@ -136,7 +140,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 <br />
 
 
-<details>
+<details >
   <summary> :keyboard: GitHub Stats</summary>
 
   <img align="left" alt="Tom's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=tom-kotlar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
