@@ -51,7 +51,7 @@
 
 
 <a href="https://material.io/">
-<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Material Design" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/640px-Google_Material_Design_Logo.svg.png" style="padding-right:10px;" />
 </a>                 
 
 
