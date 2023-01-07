@@ -79,16 +79,20 @@
 <img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/500/notion.png" style="padding-right:10px;" /> 
 </a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines">
-<img align="left" alt="Azure Pipelines" width="22px" src="https://ms-azure-devops.gallerycdn.vsassets.io/extensions/ms-azure-devops/azure-pipelines/1.205.0/1652147141736/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://azure.microsoft.com/en-us/products/devops/">
+<img align="left" alt="Azure Devops" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" style="padding-right:10px;" />  
 </a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions">
+<a href="https://azure.microsoft.com/en-gb/products/functions/">
 <img align="left" alt="Azure Functions" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
-<a href="https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops">
-<img align="left" alt="Azure Repos / DevOps Git" width="26px" src="https://argutec.gallerycdn.vsassets.io/extensions/argutec/argutec-azure-repos/1.2007.15/1596020285990/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://azure.microsoft.com/en-us/products/category/storage/">
+<img align="left" alt="Azure Storage" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurestorage/0.15.0/1663278668864/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+</a>
+
+<a href="https://azure.microsoft.com/en-gb/products/app-service/static/">
+<img align="left" alt="Azure Static Web Apps" width="26px" src="https://res.cloudinary.com/apideck/image/upload/v1594075913/icons/azure-static-web-apps.png" style="padding-right:10px;" />  
 </a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light">
