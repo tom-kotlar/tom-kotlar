@@ -99,8 +99,8 @@
 <img align="left" alt="Azure Api Management" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-apimanagement/1.0.5/1656098878130/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light">
-<img align="left" alt="Day Theme github-light" width="30px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<a href="https://marketplace.visualstudio.com/items?itemName=Heron.firefox-devtools-theme">
+<img align="left" alt="Day Theme firefox" width="30px" src="https://heron.gallerycdn.vsassets.io/extensions/heron/firefox-devtools-theme/4.10.1/1573357122342/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">
