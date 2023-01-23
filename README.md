@@ -104,7 +104,7 @@
 </a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">
- <img align="left" alt="Afternoon Theme theme-dracula " width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+ <img align="left" alt="Afternoon Theme theme-dracula " width="26px" src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.14.2/1593077558740/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets">
