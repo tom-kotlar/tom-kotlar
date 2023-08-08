@@ -132,7 +132,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968743.png"  title="unsplash icon" alt="unsplash icon" height="25px" style="padding-right:10px;"/>
 </a>
 
-<a href="https://dribbble.com/tomkotlar" align="left">
+<a href="https://dribbble.com/tomkotlar">
 <img  src="https://cdn-icons-png.flaticon.com/512/87/87400.png"  title="dribbble icon" alt="dribbble icon" height="25px"style="padding-right:10px;"/>
 </a>
 
