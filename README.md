@@ -3,9 +3,9 @@
 - 🧑🏻‍💻 I’m working on my first blog post about Azure Static Web Apps 
 - :books: I’m currently learning for [Angular Cert](https://www.angulartraining.com/angular-certification.html#about)
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
-- :earth_africa: I love animals especialy 🐈
+- :earth_africa: I love animals especially 🐈
 - :tv: I’m watching [Westword](https://www.imdb.com/title/tt0475784/) - tv show
-- :radio:  I’m currently listening [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
+- :radio:  I’m currently listening to [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
 - ✨ I enjoy taking photos of Nature 📷 🚁  - Drone
 
 <br />
@@ -22,7 +22,11 @@
 </a>
 
 <a href="https://www.credly.com/badges/5b94411d-57b1-4679-9126-af3604fcc5cd/public_url" >
-<img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px;"/>
+<img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px"/>
+</a>
+
+<a>
+<img  src="img/AISkillsChallenge-badge.png" height="100px" style="margin-top:10px" />
 </a>
 
 
