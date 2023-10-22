@@ -4,7 +4,7 @@
 - :books: I’m currently learning for [Angular Cert](https://www.angulartraining.com/angular-certification.html#about)
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
 - :earth_africa: I love animals especially 🐈
-- :tv: I’m watching [Westword](https://www.imdb.com/title/tt0475784/) - tv show
+- :tv: I’m watching [Loki](https://www.disneyplus.com/en-gb/series/loki/6pARMvILBGzF) - tv show
 - :radio:  I’m currently listening to [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
 - ✨ I enjoy taking photos of Nature 📷 🚁  - Drone
 
