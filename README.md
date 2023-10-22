@@ -115,6 +115,10 @@
 <img align="left" alt="Mood Shifter vscode-pets" width="26px" src="https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.10.0/1645479155942/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
+<a href="https://openai.com/">
+<img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png" style="padding-right:10px;" /> 
+</a>
+
 
 <br />
 <br />
