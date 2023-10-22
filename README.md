@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40" />
 
-- 🧑🏻‍💻 I’m working on my first blog post about Azure Static Web Apps 
+- 🧑🏻‍💻 I’m working on my first blog post about RxJs Fundamentals
 - :books: I’m currently learning for [Angular Cert](https://www.angulartraining.com/angular-certification.html#about)
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
 - :earth_africa: I love animals especially 🐈
