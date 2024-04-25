@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40" />
 
-- 🧑🏻‍💻 I’m working on my first blog post about RxJs Fundamentals
+- 🧑🏻‍💻 I’m working on my first blog post about Angular Signals
 - :books: I’m currently learning for [Angular Cert](https://www.angulartraining.com/angular-certification.html#about)
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
 - :earth_africa: I love animals especially 🐈
@@ -25,10 +25,13 @@
 <img  src="img/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="100px" style="padding-right:10px"/>
 </a>
 
-<a>
-<img  src="img/AISkillsChallenge-badge.png" height="100px" style="margin-top:10px" />
+<a href="">
+<img  src="img/AISkillsChallenge-badge.png" height="100px" style="padding-right:10px;" />
 </a>
 
+<a href="https://interstate21.com/certificate/?code=4G20XM7">
+<img  src="img/angular-level1.png" height="100px" style="padding-right:10px;" />
+</a>
 
 
 
@@ -103,10 +106,6 @@
 <img align="left" alt="Azure Api Management" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-apimanagement/1.0.5/1656098878130/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=Heron.firefox-devtools-theme">
-<img align="left" alt="Day Theme firefox" width="30px" src="https://heron.gallerycdn.vsassets.io/extensions/heron/firefox-devtools-theme/4.10.1/1573357122342/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
-</a>
-
 <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">
  <img align="left" alt="Afternoon Theme theme-dracula " width="26px" src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
 </a>
@@ -117,6 +116,11 @@
 
 <a href="https://openai.com/">
 <img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png" style="padding-right:10px;" /> 
+</a>
+
+
+<a href="https://openai.com/">
+<img align="left" alt="Figma" height="30px" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" style="padding-right:10px;" /> 
 </a>
 
 
