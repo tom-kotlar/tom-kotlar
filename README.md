@@ -177,5 +177,16 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 
 </details>
 
+<details>
+  <summary> :file_folder: Blog Posts </summary>
+
+  - [Surviving the Angular Maze: A Code Boot Camp Graduate’s Adventure](https://tomkotlar.medium.com/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-e63d408650ca)
+  - [Icons](https://devicon.dev)
+  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+
+</details>
+
 
 
