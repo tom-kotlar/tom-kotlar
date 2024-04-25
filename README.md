@@ -119,7 +119,7 @@
 </a>
 
 
-<a href="https://openai.com/">
+<a href="https://www.figma.com/">
 <img align="left" alt="Figma" height="30px" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" style="padding-right:10px;" /> 
 </a>
 
