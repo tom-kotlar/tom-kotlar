@@ -5,8 +5,8 @@
 - :octocat: [Marvel](https://www.marvel.com) & [Star Wars](https://www.starwars.com) Fan
 - :earth_africa: I love animals especially 🐈
 - :tv: I’m watching [Loki](https://www.disneyplus.com/en-gb/series/loki/6pARMvILBGzF) - tv show
-- :radio:  I’m currently listening to [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
-- :blue_book: [Angular for Enterprise Applications - Third Edition](https://www.packtpub.com/product/angular-for-enterprise-applications-third-edition/9781805127123)
+- :radio: Listening to [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true) 
+- :blue_book: Reading [Angular for Enterprise Applications - Third Edition](https://www.packtpub.com/product/angular-for-enterprise-applications-third-edition/9781805127123)
 
 <br />
 
