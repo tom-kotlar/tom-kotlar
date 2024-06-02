@@ -161,7 +161,7 @@ title="linkedin icon" alt="linkedin icon" height="25px" style="padding-right:10p
 <details>
   <summary> 📰 Blog Posts </summary>
 
-  - [Surviving the Angular Maze: A Code Boot Camp Graduate’s Adventure](https://tomkotlar.medium.com/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-e63d408650ca)
+  - [Top 5 Angular Resources to Get You Started](https://tomkotlar.medium.com/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-e63d408650ca)
   - [RxJS – Streams Analogs In Real Life](https://www.decodedfrontend.io/rxjs-streams-analogs-in-real-life/)
   - [ng-class for dynamic styling](https://www.angulartraining.com/daily-newsletter/ng-class-for-dynamic-styling/)
 </details>
