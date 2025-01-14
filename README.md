@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://azure.microsoft.com/en-gb/products/functions/">
-<img align="left" alt="Azure Functions" width="26px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/1.7.3/1654100688932/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />  
+<img align="left" alt="Azure Functions" width="26px" src="https://symbols.getvecta.com/stencil_28/38_functions.09b75fbe38.svg" style="padding-right:10px;" />  
 </a>
 
 <a href="https://azure.microsoft.com/en-us/products/category/storage/">
