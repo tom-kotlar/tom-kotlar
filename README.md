@@ -54,13 +54,7 @@
 
 <a href="https://azure.microsoft.com/en-gb/">
 <img align="left" alt="Microsoft_Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="padding-right:10px;" />
-</a>
-
-
-<a href="https://material.io/">
-<img align="left" alt="Material Design" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/640px-Google_Material_Design_Logo.svg.png" style="padding-right:10px;" />
-</a>                 
-
+</a>              
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -120,7 +114,7 @@
 
 
 <a href="https://www.figma.com/">
-<img align="left" alt="Figma" height="30px" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" style="padding-right:10px;" /> 
+<img align="left" alt="Figma" height="30px" width="" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" /> 
 </a>
 
 
